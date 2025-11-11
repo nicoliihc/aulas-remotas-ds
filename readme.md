@@ -38,3 +38,20 @@ Por exemplo, se o usuário digitar o número 7, o programa vai mostrar:
 7 x 9 = 63
 
 7 x 10 = 70
+
+
+
+# Atividade 3: Função Calculadora
+
+Este projeto é uma atividade simples feita em Python para praticar o uso de funções. O objetivo foi criar um arquivo chamado funcao_calculadora.py que contém uma função chamada calculadora(). Essa função recebe três parâmetros: dois números e uma operação matemática (como soma, subtração, multiplicação ou divisão). O código lê os valores informados pelo usuário e retorna o resultado da operação escolhida. 
+
+## Exemplo de execução: 
+Ao digitar dois números e a operação desejada, como “+” ou “*”, o programa mostra o resultado final diretamente no terminal, permitindo que o usuário veja o cálculo feito pela função.
+
+
+# Atividade 4: Orientação a Objetos com Herança
+
+Esta atividade foi feita para praticar os conceitos básicos de programação orientada a objetos em Python, com foco em herança. O arquivo criado se chama heranca_veiculos.py e nele foram definidas duas classes: Veiculo e Carro. A classe Veiculo é a classe principal (ou “pai”), que contém atributos simples como marca e modelo. Já a classe Carro é uma classe “filha” que herda os atributos da classe Veiculo e ainda adiciona um novo atributo chamado numero_portas. O objetivo é entender como a herança permite reaproveitar código e evitar repetições. 
+
+## Exemplo de execução:
+Ao executar o código, é possível criar um objeto da classe Carro, informar a marca, o modelo e o número de portas, e depois exibir essas informações no terminal, mostrando como os atributos herdados e novos funcionam juntos.
